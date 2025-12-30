@@ -1,0 +1,15 @@
+body {
+    background-color: #d6e6ff;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+#page {
+    background-color: #d7f9f8;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+}
