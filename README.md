@@ -1,2 +1,2 @@
 # i230010.github.io
-My Website
+My Personal Website
