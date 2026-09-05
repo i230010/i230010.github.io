@@ -1,2 +1,3 @@
-# i230010.github.io
-EclipseInformation.site
+# EclipseInformation.site
+
+My Solar Eclipse Website
