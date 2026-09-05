@@ -1,3 +1,3 @@
 # EclipseInformation.site
 
-My Solar Eclipse Website
+My (Solar Eclipse) Website
